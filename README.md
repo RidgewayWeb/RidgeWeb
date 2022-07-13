@@ -1,6 +1,6 @@
 # ridgewayplus.xyz
 
-It's a website. You should go to [the website](http://ridgewayplus.xyz)
+It's a website. You should go to [the website](http://ridgewayplus.xyz).
 
 ## Credits
 
