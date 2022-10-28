@@ -1,0 +1,63 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 ==================================================================\
+https://keybase.io/ridgewayplus\
+--------------------------------------------------------------------\
+\
+I hereby claim:\
+\
+  * I am an admin of https://ridgewayplus.codes\
+  * I am ridgewayplus (https://keybase.io/ridgewayplus) on keybase.\
+  * I have a public key ASDkvc5Xajevcu6uiusopFtHrnMFIvns0GcKdIqOS2xhrAo\
+\
+To do so, I am signing this object:\
+\
+\{\
+  "body": \{\
+    "key": \{\
+      "eldest_kid": "0120e4bdce576a37af72eeae8aeb28a45b47ae730522f9ecd0670a748a8e4b6c61ac0a",\
+      "host": "keybase.io",\
+      "kid": "0120e4bdce576a37af72eeae8aeb28a45b47ae730522f9ecd0670a748a8e4b6c61ac0a",\
+      "uid": "51777f3c2e9516ec13753aafa79acd19",\
+      "username": "ridgewayplus"\
+    \},\
+    "merkle_root": \{\
+      "ctime": 1625821074,\
+      "hash": "1fd5e82bf844b8e79a7cd55e93fb6269852d8864c083f380553b801945b51c584fb45a41227a91a947b6d85b79bb1fc13c6a6baaf3e26bb116dc3f9e7a0e8210",\
+      "hash_meta": "c911b72c3ad54a64ffd1cd9f0f6ea40aa035749b25c84206b2e989a27b56d03f",\
+      "seqno": 20342935\
+    \},\
+    "service": \{\
+      "entropy": "P7qhLCM/poATIpn/2NC8QsGD",\
+      "hostname": "ridgewayplus.codes",\
+      "protocol": "https:"\
+    \},\
+    "type": "web_service_binding",\
+    "version": 2\
+  \},\
+  "client": \{\
+    "name": "keybase.io go client",\
+    "version": "5.7.0"\
+  \},\
+  "ctime": 1625821127,\
+  "expire_in": 504576000,\
+  "prev": "6d445b517335be5439062ce8566b5a42163e2484cfbe3eeb186e0e9b8b0d5439",\
+  "seqno": 9,\
+  "tag": "signature"\
+\}\
+\
+which yields the signature:\
+\
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg5L3OV2o3r3LurorrKKRbR65zBSL57NBnCnSKjktsYawKp3BheWxvYWTESpcCCcQgbURbUXM1vlQ5BizoVmtaQhY+JITPvj7rGG4Om4sNVDnEIGJa/taaHOTvx00uEZny/6ysvYXX6aVE9O2dibLV//aRAgHCo3NpZ8RA8d9WmuVlW6gK9LSY5e9xkI7KK2ewCzRNkUY6kswXCYxYFJ4hdbhB5io0tz2msDS4/VAsbiqOGhDra7e/GlIjAahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIOhzCColXfoJKL6IlOvOM+k8m77CCnoGZ8TLEMRxelTLo3RhZ80CAqd2ZXJzaW9uAQ==\
+\
+And finally, I am proving ownership of this host by posting or\
+appending to this document.\
+\
+View my publicly-auditable identity here: https://keybase.io/ridgewayplus\
+\
+==================================================================}

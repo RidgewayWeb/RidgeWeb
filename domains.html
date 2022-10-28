@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<!--
+
+(*・ω・)ﾉ
+
+I'm not the best at web development, if anything looks unusual then feel free to report it here: https://github.com/RidgewayWeb/RidgeWeb/issues
+Acto is cute btw :hehe:
+-->
+
+<head>
+    <meta charset="UTF-8">
+    <meta content="Ridge's domains" property="og:title">
+    <meta content="Here are the domains I own!" property="og:description">
+    <meta content="Ridgeway's Website" property="og:site_name">
+    <meta content="https://ridgewayplus.codes/fortnitelarge.jpg" property="og:image">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Ridgeway's domains</title>
+    <link rel="shortcut icon" type="image/jpg" href="fortnitelarge.jpg"/>
+</head>
+
+<body>
+    <main>
+        <h1 class="ridge">Ridge's domain list</h1>
+        <p>This list is designed to be machine readable.<br>You can find the raw text file <a
+                href="domains.txt">here</a>.</p>
+        <!-- Acto is cute -->
+        <p id="domains">Loading.. If it doesn't load or you have JavaScript disabled, <a href="domains.txt">click
+                here.</a>.<br>Sorry for the trouble!</p>
+        <script>
+            fetch('./domains.txt')
+                .then(function (response) {
+                    return response.text();
+                })
+                .then(function (domains) {
+                    document.getElementById('domains').innerText = domains
+                });
+        </script>
+        <hr>
+        <a href="./index.html">Home</a> | <a href="domains.html"> Domain list
+        </a> | <a href="LICENSE">License</a> | <a class="acto"
+            href="https://cleveracton0126.github.io">Acto!</a>
+    </main>
+</body>
+
+</html>
